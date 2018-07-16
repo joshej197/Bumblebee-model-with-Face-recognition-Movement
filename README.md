@@ -1,6 +1,7 @@
 # Bumblebee-model-with-Face-recognition-Movement
 
-Checkout the video.
+Checkout the video:
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=FU8qe2HX4Zw
 " target="_blank"><img src="http://img.youtube.com/vi/FU8qe2HX4Zw/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
